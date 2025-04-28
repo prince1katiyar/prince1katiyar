@@ -1,76 +1,13 @@
-# Hi there, I'm Prince Katiyar 👋
+<h1 align="center">Hi 👋, I'm Prince Katiyar 👋</h1>
+<h3 align="center">🌟 AI Engineer | Data Scientist | Educator | developer from India</h3>
 
-### 🌟 **AI Engineer | Data Scientist | Educator**
+- 🔭 I’m currently working on [euron.one](https://euron.one/)
 
-Passionate about building scalable AI solutions leveraging cutting-edge NLP, LLMs, and RAG technologies. Currently mentoring thousands of learners and developing real-world AI applications at **Euron.one**.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-### 🔧 **Skills & Tools**
-
-**Programming Languages & Frameworks:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-
-**Cloud Platforms:**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)  
-![AWS Sagemaker](https://img.shields.io/badge/AWS_Sagemaker-FF9900?style=flat&logo=amazonaws&logoColor=white)  
-![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-232F3E?style=flat&logo=amazonaws&logoColor=white)  
-![Google Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat&logo=googlecloud&logoColor=white)
-
-**LLMs & Vector Databases:**  
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white)  
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)  
-![ChromaDB](https://img.shields.io/badge/ChromaDB-3C5EFF?style=flat&logo=databricks&logoColor=white)  
-![Pinecone](https://img.shields.io/badge/Pinecone-00A3FF?style=flat&logo=pine64&logoColor=white)  
-![FAISS](https://img.shields.io/badge/FAISS-FF6F00?style=flat&logoColor=white)
-
-**Deep Learning:**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-
-**MLOps & CI/CD:**  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)  
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logoColor=white)
-
----
-
-### 💼 **Work Experience**
-
-**Mentor & AI Engineer | Euron.one** *(2024 – Present)*  
-- Designed advanced RAG pipelines integrating LangChain, ChromaDB, OpenAI APIs.
-- Built scalable AI platforms (EURI SDK) and AI Resume Analyzer.
-- Mentored 10,000+ students in AI & Generative AI on AWS/GCP.
-
-**Associate Data Scientist | iNeuron Intelligence Pvt. Ltd.** *(2023 – 2024)*  
-- Improved LMS efficiency and user experience significantly.
-- Built automated chat systems and operational dashboards.
-
----
-
-### 🚀 **Highlighted Projects**
-
-- **AI-Driven Customer Support Chat System** *(Reduced query resolution time by 40%)*
-- **Medical Chatbot (RAG & Agentic AI)** *(Improved accuracy and support intervention efficiency)*
-- **Advanced RAG Project (Media Agency)** *(Optimized semantic search & summarization)*
-
----
-
-### 🎓 **Education**
-
-**Master of Computer Science (Data Science Specialization)**  
-Rajiv Gandhi National Institute of Youth Development, Chennai (2021–2023) – **85%**
-
----
-
-### 🌐 **Let's Connect!**
-
-📧 [Email](mailto:princekatiyar986@gmail.com) • [LinkedIn](https://www.linkedin.com/in/prince-katiyar-087406231/) • [YouTube](https://www.youtube.com/@LearningLogic_official) • [GitHub](https://github.com/prince1katiyar)
-
----
-
-Thanks for stopping by! Let's build the future of AI together 🚀✨
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prince1katiyar&show_icons=true&locale=en&layout=compact" alt="prince1katiyar" /></p>
