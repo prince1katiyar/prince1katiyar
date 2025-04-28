@@ -1,9 +1,22 @@
+
 <h1 align="center">Hi 👋, I'm Prince Katiyar 👋</h1>
-<h3 align="center">🌟 AI Engineer | Data Scientist | Educator | developer from India. Passionate about building scalable AI solutions leveraging cutting-edge NLP, LLMs, and RAG technologies. Currently mentoring thousands of learners and developing real-world AI applications at Euron.one.</h3>
+
+<h3 align="center">🌟 AI Engineer | Data Scientist | Educator | developer from India. 
+  Passionate about building scalable AI solutions leveraging cutting-edge NLP, LLMs, and RAG technologies. Currently mentoring thousands of learners and developing real-world AI applications at Euron.one.</h3>
 
 - 🔭 I’m currently working on [euron.one](https://euron.one/)
 
-- Skills **Deep Learning Machine Learning Computer Vision Natural Language Processing (NLP) MLOps Generative AI Data Science Big Data Cloud Computing Statistical Analysis & Mathematics Data Engineering AI Ethics Reinforcement Learning**
+- Skills
+-  Deep Learning
+-  Machine Learning
+-  Computer Vision
+-  Natural Language Processing (NLP)
+-  MLOps
+-  Generative AI
+-  Data Science
+-  Cloud Computing
+-  Statistical Analysis & Mathematics
+-  Reinforcement Learning
 
 - 📝 Check my Teaching Experiance [https://www.youtube.com/@LearningLogic_official](https://www.youtube.com/@LearningLogic_official)
 
