@@ -6,12 +6,10 @@
 
 - 🔭 I’m currently working on [euron.one](https://euron.one/)
 
-- Skills
+- **Skills**
 -  Deep Learning
 -  Machine Learning
--  Computer Vision
 -  Natural Language Processing (NLP)
--  MLOps
 -  Generative AI
 -  Data Science
 -  Cloud Computing
